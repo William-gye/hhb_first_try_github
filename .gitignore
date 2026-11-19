@@ -9,6 +9,9 @@ $RECYCLE.BIN/
 .idea/
 *.swp
 
+#模组/插件
+node_modules/
+
 # Python
 __pycache__/
 *.py[cod]
